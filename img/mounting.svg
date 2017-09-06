@@ -1,0 +1,55 @@
+<svg width="648" height="333" viewBox="0 0 648 333" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Group
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 43)">
+      <rect fill="#CDFFCF" width="251" height="50" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="63.56" y="32">constructor(</tspan> <tspan x="182.52" y="32">)</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 120)">
+      <rect fill="#CDFFCF" width="251" height="50" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="16.61" y="32">componentWillMount(</tspan> <tspan x="229.47" y="32">)</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 197)">
+      <rect fill="#AAE6F3" width="251" height="50" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="87.96" y="32">render(</tspan> <tspan x="158.12" y="32">)</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 274)">
+      <rect fill="#CDFFCF" width="251" height="50" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="17.42" y="32">componentDidMount(</tspan> <tspan x="228.66" y="32">)</tspan>
+      </text>
+    </g>
+    <path d="M126 170.5v26M126 196.5l3-10.8h-6l3 10.8zM127 247.5v26M127 273.5l3-10.8h-6l3 10.8zM126 93.5v26M126 119.5l3-10.8h-6l3 10.8z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"/>
+    <path fill="#EAC6C6" d="M32 0h190v27H32z"/>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000">
+      <tspan x="82.82" y="21">Mounting</tspan>
+    </text>
+    <path fill="#52539F" d="M288 274h331v59H288zM285 129h363v29H285zM288 43h224v50H288z"/>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="297" y="288">- Setting state here triggers re-render</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="296.07" y="147">- Called just before component is rendered to the DOM</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="296.43" y="62">- Standard ES6 class constructor</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="296.77" y="81">- this.state initialized in here</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="297" y="307">- Fetch data via API calls here</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="297" y="326">- Initialization that requires DOM nodes goes here</tspan>
+    </text>
+  </g>
+</svg>

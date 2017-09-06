@@ -1,0 +1,24 @@
+<svg width="881" height="108" viewBox="0 0 881 108" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Group 3
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 45)">
+      <rect fill="#CDFFCF" width="438.605" height="61.425" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.103" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="96.529" y="34.742">componentWillUnmount(</tspan> <tspan x="337.873" y="34.742">)</tspan>
+      </text>
+    </g>
+    <path fill="#EAC6C6" d="M129 0h190v27H129z"/>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000">
+      <tspan x="166.49" y="21">Unmounting</tspan>
+    </text>
+    <path fill="#52539F" d="M462 44h419v64H462z"/>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="466" y="83">- Clean up timers, cancel network requests, remove event </tspan> <tspan x="466" y="99">listeners, etc in here</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="466" y="63">- Called right before the component is destroyed</tspan>
+    </text>
+  </g>
+</svg>
